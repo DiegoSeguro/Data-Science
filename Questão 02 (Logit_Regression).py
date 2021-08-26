@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Questão 02 ## #
-# Candidato: Diego Seguro #
-
 #Importando bibliotecas.
 import numpy as np
 import seaborn as sns
