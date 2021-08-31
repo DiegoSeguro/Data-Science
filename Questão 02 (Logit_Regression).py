@@ -97,7 +97,8 @@ model2 = smf.logit(
                     Conversion_mean + \
                     Position_mean + \
                     Price_mean',
-            data = df2)
+                data = df2
+                   )
 
 # Atribuindo a variável resultados à saída do modelo.
 resultados2 = model2.fit()
